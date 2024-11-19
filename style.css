@@ -108,7 +108,7 @@ body {
     display: flex;
     justify-content: right; 
     position: relative; /* Define o posicionamento relativo ao fluxo normal do documento */
-    top: -500px; /* Move o item 20px para cima */
+    top: -800px; /* Move o item 20px para cima */
     left: -120px;
 }
 
